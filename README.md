@@ -7,7 +7,7 @@
 Begum Rokeya University, Rangpur, Bangladesh 🇧🇩
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sintaulsiam.is--a.dev-ff6a2b?style=flat-square&logo=vercel&logoColor=white)](https://sintaulsiam.is-a.dev)
-[![Essays](https://img.shields.io/badge/Essays%20%26%20Notes-siamwrites.vercel.app-38BDF8?style=flat-square&logo=hashnode&logoColor=white)](https://siamwrites.vercel.app)
+[![Essays](https://img.shields.io/badge/Essays%20%26%20Notes-smsiamwrites.vercel.app-38BDF8?style=flat-square&logo=hashnode&logoColor=white)](https://smsiamwrites.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sintaulsiam-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sintaulsiam)
 [![X](https://img.shields.io/badge/X-@sintaul__siam-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/sintaul_siam)
 [![Crates.io](https://img.shields.io/badge/Crates.io-sintaulsiam-CE422B?style=flat-square&logo=rust&logoColor=white)](https://crates.io/users/sintaulsiam)
@@ -51,12 +51,12 @@ Tools       Neovim  ·  Git  ·  GH CLI  ·  cargo  ·  pnpm
 
 ## ✍️ Writing
 
-I write long-form essays and stream notes at **[siamwrites.vercel.app](https://siamwrites.vercel.app)** — both in English and Bengali (বাংলা). Topics range from systems architecture to ideas about education, attention, and how technology shapes thinking.
+I write long-form essays and stream notes at **[smsiamwrites.vercel.app](https://smsiamwrites.vercel.app)** — both in English and Bengali (বাংলা). Topics range from systems architecture to ideas about education, attention, and how technology shapes thinking.
 
 Recent essays:
-- [How Computers and the Internet Work](https://siamwrites.vercel.app/essays/how-computers-and-the-internet-work) — A deep conceptual explainer from transistors to TCP/IP
-- [In Praise of Friction](https://siamwrites.vercel.app/essays/in-praise-of-friction)
-- [The Illusion of Explanatory Depth](https://siamwrites.vercel.app/essays/the-illusion-of-explanatory-depth)
+- [How Computers and the Internet Work](https://smsiamwrites.vercel.app/essays/how-computers-and-the-internet-work) — A deep conceptual explainer from transistors to TCP/IP
+- [In Praise of Friction](https://smsiamwrites.vercel.app/essays/in-praise-of-friction)
+- [The Illusion of Explanatory Depth](https://smsiamwrites.vercel.app/essays/the-illusion-of-explanatory-depth)
 
 ---
 
@@ -71,7 +71,7 @@ Recent essays:
 
 <div align="center">
 
-**[sintaulsiam.is-a.dev](https://sintaulsiam.is-a.dev)** · **[siamwrites.vercel.app](https://siamwrites.vercel.app)** · [linkedin.com/in/sintaulsiam](https://linkedin.com/in/sintaulsiam)
+**[sintaulsiam.is-a.dev](https://sintaulsiam.is-a.dev)** · **[smsiamwrites.vercel.app](https://smsiamwrites.vercel.app)** · [linkedin.com/in/sintaulsiam](https://linkedin.com/in/sintaulsiam)
 
 *"Build things that last. Write things that clarify. Think at the system level."*
 
