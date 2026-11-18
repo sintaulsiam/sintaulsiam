@@ -3,7 +3,7 @@
 # সিনতাউল মাহদী সিয়াম
 ### Sintaul Mahdi Siam · Md. Sintaul Mahdi Siam
 
-**Software Engineer · Systems Programmer · CS Student**  
+**Software Engineer · Systems Programmer · Essayist**  
 Begum Rokeya University, Rangpur, Bangladesh 🇧🇩
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sintaulsiam.is--a.dev-ff6a2b?style=flat-square&logo=vercel&logoColor=white)](https://sintaulsiam.is-a.dev)
