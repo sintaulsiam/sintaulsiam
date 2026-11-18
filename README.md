@@ -3,7 +3,7 @@
 # সিনতাউল মাহদী সিয়াম
 ### Sintaul Mahdi Siam · Md. Sintaul Mahdi Siam
 
-**Software Engineer · Systems Programmer · Essayist**  
+**Software Engineer · Essayist · Thinker**  
 Begum Rokeya University, Rangpur, Bangladesh 🇧🇩
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sintaulsiam.is--a.dev-ff6a2b?style=flat-square&logo=vercel&logoColor=white)](https://sintaulsiam.is-a.dev)
@@ -51,12 +51,18 @@ Tools       Neovim  ·  Git  ·  GH CLI  ·  cargo  ·  pnpm
 
 ## ✍️ Writing
 
-I write long-form essays and stream notes at **[smsiamwrites.vercel.app](https://smsiamwrites.vercel.app)** — both in English and Bengali (বাংলা). Topics range from systems architecture to ideas about education, attention, and how technology shapes thinking.
+I write long-form essays, intellectual reflections, and stream notes at **[smsiamwrites.vercel.app](https://smsiamwrites.vercel.app)** — published bilingually in English and Bengali (বাংলা).
+
+My writing spans:
+- **Philosophy & Epistemology**: How human knowledge is structured, intellectual humility, cognitive biases, and mental models.
+- **Ethics, Education & Human Purpose**: Reflections on personal agency, education systems, cultivating depth, and meaningful work.
+- **Systems & Technology**: Deep architectural dives from bare metal computation and networking to distributed computing and protocol design.
 
 Recent essays:
-- [How Computers and the Internet Work](https://smsiamwrites.vercel.app/essays/how-computers-and-the-internet-work) — A deep conceptual explainer from transistors to TCP/IP
-- [In Praise of Friction](https://smsiamwrites.vercel.app/essays/in-praise-of-friction)
-- [The Illusion of Explanatory Depth](https://smsiamwrites.vercel.app/essays/the-illusion-of-explanatory-depth)
+- [The Illusion of Explanatory Depth](https://smsiamwrites.vercel.app/essays/the-illusion-of-explanatory-depth) — On epistemological limits, cognitive illusions, and authentic understanding
+- [ব্যক্তিত্ব, শিক্ষা ও জীবনের লক্ষ্য](https://smsiamwrites.vercel.app/essays/byaktitto-shikkha-o-jiboner-lokkho) — Personality, education, and philosophical clarity on the purpose of life
+- [In Praise of Friction](https://smsiamwrites.vercel.app/essays/in-praise-of-friction) — Resisting effortless digital convenience to preserve deliberate thinking
+- [How Computers and the Internet Work](https://smsiamwrites.vercel.app/essays/how-computers-and-the-internet-work) — A 20,000-year arc from Ishango bones to subsea fiber optics
 
 ---
 
